@@ -1,0 +1,52 @@
+{
+  "_type": "mitglied",
+  "_id": "demo-baeckerei-meier",
+  "name": "Bäckerei Meier",
+  "slug": { "_type": "slug", "current": "baeckerei-meier" },
+  "branchenkategorie": {
+    "_type": "reference",
+    "_ref": "branchenkategorie-handwerk"
+  },
+  "logo": null,
+  "titelbild": null,
+  "bildergalerie": [],
+  "adresse": {
+    "strasse": "Hauptstraße 12",
+    "plz": "90402",
+    "ort": "Nürnberg"
+  },
+  "kontaktmoeglichkeiten": {
+    "telefon": "0911 123456",
+    "email": "kontakt@baeckerei-meier.de",
+    "kontaktformularUrl": "https://baeckerei-meier.de/kontakt"
+  },
+  "oeffnungszeiten": [
+    { "_type": "zeitfenster", "tag": "Montag", "von": "06:30", "bis": "18:00" },
+    { "_type": "zeitfenster", "tag": "Dienstag", "von": "06:30", "bis": "18:00" },
+    { "_type": "zeitfenster", "tag": "Mittwoch", "von": "06:30", "bis": "18:00" },
+    { "_type": "zeitfenster", "tag": "Donnerstag", "von": "06:30", "bis": "18:00" },
+    { "_type": "zeitfenster", "tag": "Freitag", "von": "06:30", "bis": "18:00" },
+    { "_type": "zeitfenster", "tag": "Samstag", "von": "07:00", "bis": "13:00" }
+  ],
+  "websiteUrl": "https://baeckerei-meier.de",
+  "socials": [],
+  "leistungen": [
+    "Brot", "Brötchen", "Kuchen", "Snacks", "Catering"
+  ],
+  "zielgruppe": "Privatkunden, kleine Cafés",
+  "vorteile": [
+    "Regional", "Handgemacht", "Familiengeführt"
+  ],
+  "besonderheiten": "Eigene Sauerteigmischung, veganes Gebäck, Online-Vorbestellung",
+  "gründungsjahr": 1998,
+  "templateType": "Handwerk",
+  "farbschema": {
+    "primär": "#D4A373",
+    "sekundär": "#FAEDCD"
+  },
+  "mitgliedStatus": "unterstützer",
+  "status": "aktiv",
+  "beschreibungAuto": "",
+  "kurzprofilAuto": "",
+  "zeitstempel": "2025-05-26T12:00:00Z"
+}
